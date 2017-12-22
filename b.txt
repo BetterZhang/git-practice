@@ -1,3 +1,4 @@
 add some text
 add text again
 hello
+今天是周五
